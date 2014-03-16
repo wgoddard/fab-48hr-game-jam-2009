@@ -1,0 +1,29 @@
+HGE Started..
+
+HGE version: 1.80
+Date: 04.03.2011, 23:40:21
+
+Application: Heart Quaker
+OS: Windows 6.1.7600
+Memory: 4192760K total, 2823588K free
+
+D3D Driver: aticfx32.dll
+Description: ATI Radeon HD 4800 Series        
+Version: 8.17.10.1059
+Mode: 1280 x 720 x X8R8G8B8
+
+Sound Device: Digital Audio (S/PDIF) (High Definition Audio Device)
+Sample rate: 44100
+
+Init done.
+
+Can't load resource: poops.png
+Can't load resource: poops.png
+Can't load resource: poops.png
+Can't load resource: poops.png
+Can't load resource: nopoops.png
+Can't load resource: bullet.png
+Can't load resource: bullet.png
+
+Finishing..
+The End.
